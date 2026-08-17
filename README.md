@@ -79,11 +79,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E8FF00&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Mobile+Developer" alt="Typing SVG" />
-</p>
 
 ## 📈 GitHub Stats
 

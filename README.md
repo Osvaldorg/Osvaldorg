@@ -85,8 +85,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E8FF00&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Mobile+Developer" alt="Typing SVG" />
 </p>
 
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Osvaldorg&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osvaldorg&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E8FF00&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Mobile+Developer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-beta-orcin-64.vercel.app/api?username=Osvaldorg&show_icons=true&theme=transparent&hide_border=true"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats-beta-orcin-64.vercel.app/api/top-langs/?username=Osvaldorg&layout=compact&theme=transparent&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 

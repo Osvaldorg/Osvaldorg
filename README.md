@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/osvaldo-ramos-5845372a8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tu.correo@email.com">
+  <a href="ramososvaldo487@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://tu-dominio-vercel.app" target="_blank">
+  <a href="https://portafolio-five-iota-26.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>

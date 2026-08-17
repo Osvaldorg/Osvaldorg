@@ -69,15 +69,24 @@
 
 ### 🚗 CarTrip — Car Rental Platform *(Private Repo)*
 > Full-stack car rental platform featuring vehicle management and secure payments.
-* **Tech:** Next.js, TypeScript, Stripe, Clerk.
+* **Tech:** Next.js, TypeScript, Stripe (Payments), Clerk (Auth), Prisma + PostgreSQL, Tailwind CSS.
 * **Highlight:** Integrated Stripe for payment processing and Clerk for robust user identity management.
+
+### 📚 To Be Read — Reading Tracker *(Private Repo)*
+> A complete web application to track books, reading progress, and manage personal libraries.
+* **Tech:** React, JavaScript, Open Library API, CSS, HTML.
+* **Highlight:** Developed a custom API to manage reading states and integrated a clean, intuitive user interface for book management.
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Osvaldorg&show_icons=true&theme=radium&hide_border=true" alt="Osvaldo's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osvaldorg&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E8FF00&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Mobile+Developer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Osvaldorg&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osvaldorg&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 

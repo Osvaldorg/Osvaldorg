@@ -57,25 +57,25 @@
 
 ## 🚀 Featured Projects
 
-### 💻 [Personal Developer Portfolio](https://github.com/Osvaldorg/osvaldo-ramos-portfolio)
-> Full-stack developer portfolio with a custom CMS and dynamic localization.
-* **Tech:** Next.js 15, React, TypeScript, Payload CMS, NeonDB (PostgreSQL), Vercel Blob.
-* **Highlight:** Engineered a custom context system for seamless EN/ES localization and integrated a headless CMS for dynamic project management.
+### 💻 [Personal Developer Portfolio](https://github.com/Osvaldorg/Portafolio)
+> Full-stack developer portfolio with dynamic localization and a headless CMS.
+* **Tech:** Next.js 15, React, TypeScript, Payload CMS, PostgreSQL, Tailwind CSS.
+* **Highlight:** Engineered a custom context system for seamless EN/ES localization and integrated Payload CMS for dynamic project management.
 
-### 🏢 Condominio — Mobile Management App *(Private Repo)*
-> Cross-platform mobile application for condominium residents and administration.
-* **Tech:** React Native, TypeScript, Expo, Zustand, Firebase, Socket.IO, JWT.
-* **Highlight:** Implemented real-time communication with Socket.IO and secure authentication flows using JWT and Firebase.
+### 🏢 [Condominio — Mobile Management App](https://github.com/Osvaldorg/Condominio)
+> Mobile application for condominium residents that centralizes payments, access control (QR), package tracking, and administration communication.
+* **Tech:** React Native, TypeScript, Expo, Zustand, Firebase Cloud Messaging, Socket.IO, JWT.
+* **Highlight:** Implemented real-time chat with Socket.IO, push notifications via Firebase, and secure QR-based visitor authorization.
 
-### 🚗 CarTrip — Car Rental Platform *(Private Repo)*
-> Full-stack car rental platform featuring vehicle management and secure payments.
-* **Tech:** Next.js, TypeScript, Stripe (Payments), Clerk (Auth), Prisma + PostgreSQL, Tailwind CSS.
-* **Highlight:** Integrated Stripe for payment processing and Clerk for robust user identity management.
+### 🚗 [CarTrip — Car Rental Platform](https://github.com/Osvaldorg/rental-cars)
+> Full-stack premium car rental platform featuring a modern admin dashboard for fleet management.
+* **Tech:** Next.js 15, TypeScript, Stripe, Clerk, Prisma, PostgreSQL.
+* **Highlight:** Integrated Stripe for payment processing and Clerk for secure user authentication.
 
-### 📚 To Be Read — Reading Tracker *(Private Repo)*
-> A complete web application to track books, reading progress, and manage personal libraries.
+### 📚 [ToBeRead](https://github.com/Osvaldorg/ToBeRead)
+> Literary discovery platform connected to the Open Library API to search books and build personal "To Be Read" lists.
 * **Tech:** React, JavaScript, Open Library API, CSS, HTML.
-* **Highlight:** Developed a custom API to manage reading states and integrated a clean, intuitive user interface for book management.
+* **Highlight:** Consumed external REST APIs for real-time search with filters and implemented a clean, responsive interface.
 
 ---
 
